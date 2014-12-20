@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GenericMethodInvocation
 {
-    class Program//gzhgzgzuguzgz
+    class Program//gzhgzgzuguzgzbhbhbhjbhj
     {
         static void Main(string[] args)
         {
