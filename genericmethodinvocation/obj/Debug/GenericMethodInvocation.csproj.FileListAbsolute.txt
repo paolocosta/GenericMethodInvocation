@@ -1,9 +1,0 @@
-C:\Users\Paolo\Source\Repos\GenericMethodInvocation\GenericMethodInvocation\bin\Debug\GenericMethodInvocation.exe.config
-C:\Users\Paolo\Source\Repos\GenericMethodInvocation\GenericMethodInvocation\bin\Debug\GenericMethodInvocation.exe
-C:\Users\Paolo\Source\Repos\GenericMethodInvocation\GenericMethodInvocation\bin\Debug\GenericMethodInvocation.pdb
-C:\Users\Paolo\Source\Repos\GenericMethodInvocation\GenericMethodInvocation\obj\Debug\GenericMethodInvocation.csprojResolveAssemblyReference.cache
-C:\Users\Paolo\Source\Repos\GenericMethodInvocation\GenericMethodInvocation\obj\Debug\GenericMethodInvocation.exe
-C:\Users\Paolo\Source\Repos\GenericMethodInvocation\GenericMethodInvocation\obj\Debug\GenericMethodInvocation.pdb
-C:\Users\Paolo\Documents\Visual Studio 2013\git\GenericMethodInvocation\GenericMethodInvocation\bin\Debug\GenericMethodInvocation.exe.config
-C:\Users\Paolo\Documents\Visual Studio 2013\git\GenericMethodInvocation\GenericMethodInvocation\obj\Debug\GenericMethodInvocation.exe
-C:\Users\Paolo\Documents\Visual Studio 2013\git\GenericMethodInvocation\GenericMethodInvocation\obj\Debug\GenericMethodInvocation.pdb
