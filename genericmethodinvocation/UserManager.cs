@@ -1,6 +1,6 @@
 ﻿namespace GenericMethodInvocation
 {
-    internal class UserManager
+    class UserManager
     {
         internal int Sum(int x, int y) //ghvghvhgvhvgh
         {
