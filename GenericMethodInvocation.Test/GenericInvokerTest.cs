@@ -1,9 +1,5 @@
 ﻿using NUnit.Framework;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GenericMethodInvocation.Test
 {
@@ -32,17 +28,20 @@ namespace GenericMethodInvocation.Test
         }
 
         [Test]
-        public void call_method_check_correct_result()
+        public void Call_should_return_the_same_result_of_the_target_method()
         {
             var i = _sut.Call(x => x.Sum(2, 3));
+
             Assert.AreEqual(i, 5);
         }
 
         [Test]
-        public void call_void_method_check_it_was_called()
+        public void Calling_CallVoid_should_invoke_the_method_on_the_target_instance()
         {
             Foo.Called = false;
+
             _sut.CallVoid(x => x.Void());
+
             Assert.IsTrue(Foo.Called);
         }
     }

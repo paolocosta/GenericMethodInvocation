@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace GenericMethodInvocation
+﻿namespace GenericMethodInvocation
 {
-    internal class UserManager
+    class UserManager
     {
         internal int Sum(int x, int y) //ghvghvhgvhvgh
         {
